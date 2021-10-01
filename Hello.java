@@ -3,4 +3,3 @@ public class Hello {
         System.out.println("Git trial.");
     }
 }
-//Hello
